@@ -22,7 +22,6 @@ I'm Tiago Azevedo, a CNC Machinist with 6.5 years of experience as a special for
 * Leadership
 * High Sense of Responsibility
 * Spreadsheets
-* Python (Beginner)
 
 ## Goals ##
 * Connect with other developers
