@@ -10,7 +10,7 @@ Hi there 👋
 I'm Tiago Azevedo, a CNC Machinist specialized in milling plastic injection molds' components. My background includes 6.5 years of experience as a special forces paratrooper. Currently expanding my skillset by learning backend development on boot.dev. I'm passionate about technology and problem-solving.
 
 * Profession: CNC Machinist
-* Learning: Backend development
+* Learning: Backend development on [boot.dev](https://www.boot.dev/u/tiagoasazevedo)
 
 ## Skills ##
 <p align="center">
@@ -18,6 +18,9 @@ I'm Tiago Azevedo, a CNC Machinist specialized in milling plastic injection mold
 </p>
 * CNC Machining
 * CAD/CAM
+
+## Personal Qualities ##
+* Passionate
 * Problem-Solving
 * Leadership
 * High Sense of Responsibility
