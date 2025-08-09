@@ -1,7 +1,7 @@
 <h3 align="center">Technology Enthusiast | CNC Machinist | Learning backend development🚀</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/tiago-azevedo-9435932a4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://www.boot.dev/u/tiagoasazevedo"><img src="https://img.shields.io/badge/Boot.dev-Profile-blue?style=flat-square&logo=python" alt="Boot.dev Profile"></a>
+<a href="https://www.boot.dev/u/tiagoasazevedo"><img src="https://img.shields.io/badge/Boot.dev-Profile-blue?style=flat-square" alt="Boot.dev Profile"></a>
 </div>
 
 ## About Me! ##
