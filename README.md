@@ -14,7 +14,7 @@ I'm Tiago Azevedo, a CNC Machinist specialized in milling plastic injection mold
 
 ## Skills ##
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cnc,cad,python,git,linux&perline=10">
+  <img src="https://skillicons.dev/icons?i=cnc,cad,python,git,github,linux,vscode&perline=10">
 </p>
 * CNC Machining
 * CAD/CAM
