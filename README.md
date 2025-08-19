@@ -22,11 +22,14 @@ I'm Tiago Azevedo, 33, a CNC Machinist specialized in milling plastic injection 
 * Spreadsheets
 
 ## Personal Qualities ##
-* Passionate
+* Passionate about technology
 * Problem-Solving
 * Leadership
 * High Sense of Responsibility
+* Adaptability
+* Hard worker
 
 ## Goals ##
 * Connect with other developers
 * Learn and grow my skills
+* Change career path so I can grow personally
