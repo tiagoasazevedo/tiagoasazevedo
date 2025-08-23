@@ -32,4 +32,4 @@ I'm Tiago Azevedo, 33, a CNC Machinist specialized in milling plastic injection 
 ## Goals ##
 * Connect with other developers
 * Learn and grow my skills
-* Change career path so I can grow personally
+* Change career path so I can grow personally and challenge myself
