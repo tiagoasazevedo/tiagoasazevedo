@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/tiago-azevedo-9435932a4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://www.boot.dev/u/tiagoasazevedo"><img src="https://img.shields.io/badge/Boot.dev-Profile-blue?style=flat-square" alt="Boot.dev Profile"></a>
 </div>
+<a href="https://www.discord.com/users/tiagoasazevedo"><img src="https://img.shields.io/badge/Discord-Connect-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 
 ## About Me! ##
 Hi there!
