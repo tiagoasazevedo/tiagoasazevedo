@@ -8,7 +8,7 @@
 ## About Me! ##
 Hi there!
 
-I'm Tiago Azevedo, 33, a CNC Machinist specialized in milling plastic injection molds' components. My background includes 6 and a half years of experience as a special forces paratrooper. Currently expanding my skillset by learning backend development on boot.dev. I'm passionate about technology and problem-solving.
+I'm Tiago Azevedo, 33 years old, a CNC Machinist specialized in milling plastic injection molds' components. My background includes 6 and a half years of experience as a special forces paratrooper. Currently expanding my skillset by learning backend development on boot.dev. I'm passionate about technology and problem-solving.
 
 * Profession: CNC Machinist
 * Learning: Backend development on [boot.dev](https://www.boot.dev/u/tiagoasazevedo)
