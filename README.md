@@ -25,7 +25,7 @@ I'm Tiago Azevedo, 33 years old, a CNC Machinist specialized in milling plastic 
 ## Personal Qualities ##
 * Passionate about technology
 * Problem-Solver
-* Quick learner
+* Fast learner
 * Leadership
 * High Sense of Responsibility
 * Adaptability
