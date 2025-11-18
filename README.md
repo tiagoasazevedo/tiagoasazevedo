@@ -15,10 +15,8 @@ I'm Tiago Azevedo, 33 years old, a CNC Machinist specialized in milling plastic 
 
 ## Skills ##
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode&perline=10">
-</p>
-
-* CNC Machining
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,fedora&perline=10">
+</p>* CNC Machining
 * CAD/CAM
 * Spreadsheets
 
