@@ -37,7 +37,9 @@ class TiagoAzevedo:
 <div align="center">
 
 ### Languages & Tools
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode&perline=10" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,bash&perline=10" alt="Tech Stack" />
+<br/>
+<img src="https://img.shields.io/badge/Terminal-Bash-1f425f?style=flat&logo=gnu-bash&logoColor=white" alt="CLI" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" height="48" />
 
 </div>
