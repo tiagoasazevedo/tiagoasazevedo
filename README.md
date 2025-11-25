@@ -40,7 +40,7 @@ class TiagoAzevedo:
 <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,bash&perline=10" alt="Tech Stack" />
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fish/fish-original.svg" alt="Fish Shell" height="48" />
+<img src="https://raw.githubusercontent.com/fish-shell/fish-shell/master/doc_src/python_docs_theme/static/fish.png" alt="Fish Shell" height="48" />
 
 </div>
 
