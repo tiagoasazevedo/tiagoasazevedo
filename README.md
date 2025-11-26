@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Tiago Azevedo
 
-### Technology Enthusiast | CNC Machinist | Learning Backend Development
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Technology+Enthusiast;CNC+Machinist;Backend+Developer+in+Training;Problem+Solver+%7C+Fast+Learner" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-azevedo-9435932a4/)
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-Profile-7C3AED?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.boot.dev/u/tiagoasazevedo)
@@ -29,6 +29,25 @@ class TiagoAzevedo:
     def current_mission(self):
         return "Transitioning to backend development"
 ```
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+**🎯 Data Structures and Algorithms in Python** on [Boot.dev](https://www.boot.dev/u/tiagoasazevedo)
+
+```python
+current_focus = {
+    "course": "Data Structures and Algorithms in Python",
+    "platform": "Boot.dev",
+    "topics": ["Arrays", "Linked Lists", "Trees", "Graphs", "Sorting", "Searching"],
+    "goal": "Master backend development fundamentals"
+}
+```
+
+</div>
 
 ---
 
@@ -96,9 +115,39 @@ class TiagoAzevedo:
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+*🔨 Building my portfolio... Check back soon for exciting projects!*
+
+*Currently focused on mastering data structures and algorithms before diving into full-stack projects.*
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to:
+- 💬 Discussing technology and backend development
+- 🤝 Collaboration on learning projects
+- 📖 Sharing knowledge and experiences
+- 🌟 Connecting with fellow developers
+
+Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/tiago-azevedo-9435932a4/) or [Discord](https://www.discord.com/users/tiagoasazevedo)!
+
+</div>
+
+---
+
 <div align="center">
 
 ### 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiagoasazevedo&theme=radical&hide_border=true&background=0D1117)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagoasazevedo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
