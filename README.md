@@ -36,7 +36,7 @@ class TiagoAzevedo:
 
 <div align="center">
 
-**🎯 Data Structures and Algorithms in Python** on [Boot.dev](https://www.boot.dev/u/tiagoasazevedo)
+**🎯 [Data Structures and Algorithms in Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)** on [Boot.dev](https://www.boot.dev/u/tiagoasazevedo)
 
 ```python
 current_focus = {
