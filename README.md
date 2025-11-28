@@ -38,6 +38,12 @@ class TiagoAzevedo:
 
 **🎯 [Data Structures and Algorithms in Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)** on [Boot.dev](https://www.boot.dev/u/tiagoasazevedo)
 
+<p align="center">
+  <a href="https://www.boot.dev/u/tiagoasazevedo">
+    <img src="https://api.boot.dev/v1/users/public/38dc422c-02f0-4ffe-99c9-a6c7514d27ca/thumbnail" alt="Boot.dev Progress">
+  </a>
+</p>
+
 ```python
 current_focus = {
     "course": "Data Structures and Algorithms in Python",
@@ -46,6 +52,8 @@ current_focus = {
     "goal": "Master backend development fundamentals"
 }
 ```
+
+**Want to join me on this learning journey?** 🎁 [Get a free gift when you sign up!](https://www.boot.dev?bannerlord=tiagoasazevedo)
 
 </div>
 
