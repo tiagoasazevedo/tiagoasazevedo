@@ -59,6 +59,31 @@ current_focus = {
 
 ---
 
+### 🧠 Learning Progress (Boot.dev)
+
+<div align="center">
+
+| XP | Lessons Solved | Streak Days | Rank |
+|----|----------------|------------|------|
+| 55,494 | 601 | 144 | 14,723 |
+
+**Core Courses Completed**
+- ✅ Python Fundamentals ([Certificate](https://www.boot.dev/certificates/adbe76f5-0243-4394-bce2-cfdb02ad5456))
+- ✅ Object-Oriented Python ([Certificate](https://www.boot.dev/certificates/0f6fbd4f-59ea-416d-9170-f79f3f2a4148))
+- ✅ Linux Essentials ([Certificate](https://www.boot.dev/certificates/48a0e6b9-9b2e-4d9a-9f1b-a848c96bb312))
+- ✅ Advanced Git ([Certificate](https://www.boot.dev/certificates/cc6e5961-9c61-4eb0-b7b2-0979da2e3043))
+
+**Projects**
+- 🧠 AI Agent (LLM-driven CLI) → [Repo](https://github.com/tiagoasazevedo/ai-agent-python)
+- 📚 Bookbot (Text analysis CLI) → [Repo](https://github.com/tiagoasazevedo/bookbot)
+- 🚀 Asteroids (OOP Pygame arcade) → [Repo](https://github.com/tiagoasazevedo/asteroids)
+
+**Next Up:** Deepening data structures (graphs & trees) → building backend service prototypes.
+
+</div>
+
+---
+
 ## 💻 Tech Stack
 
 <div align="center">
