@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Tiago Azevedo
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Technology+Enthusiast;CNC+Machinist;Backend+Developer+in+Training;Problem+Solver+%7C+Fast+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Technology+Enthusiast;CNC+Machinist;Backend+Developer+in+Training;Problem+Solver+%7C+Fast+Learner" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-azevedo-9435932a4/)
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-Profile-7C3AED?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.boot.dev/u/tiagoasazevedo)
